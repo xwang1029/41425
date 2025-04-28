@@ -5,4 +5,4 @@ shap
 scikit-learn
 matplotlib
 seaborn
-mlflow
+mlflow==2.4.0
