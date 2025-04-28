@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/41425/mlruns/241642262453899307/117cd659cafc46d588762d9fd4b9c6db/artifacts
+end_time: 1745850943691
+entry_point_name: ''
+experiment_id: '241642262453899307'
+lifecycle_stage: active
+run_id: 117cd659cafc46d588762d9fd4b9c6db
+run_name: chill-hog-824
+run_uuid: 117cd659cafc46d588762d9fd4b9c6db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745850930021
+status: 3
+tags: []
+user_id: vscode

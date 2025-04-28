@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/41425/mlruns/241642262453899307/75bc16a7146f4be680cb35946abff8e3/artifacts
+end_time: 1745850973499
+entry_point_name: ''
+experiment_id: '241642262453899307'
+lifecycle_stage: active
+run_id: 75bc16a7146f4be680cb35946abff8e3
+run_name: peaceful-lynx-915
+run_uuid: 75bc16a7146f4be680cb35946abff8e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745850964415
+status: 3
+tags: []
+user_id: vscode

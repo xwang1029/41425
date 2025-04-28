@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/41425/mlruns/241642262453899307/6d77ee2fc7b744718b5d9fd8934b4bf5/artifacts
+end_time: 1745850912369
+entry_point_name: ''
+experiment_id: '241642262453899307'
+lifecycle_stage: active
+run_id: 6d77ee2fc7b744718b5d9fd8934b4bf5
+run_name: angry-goat-454
+run_uuid: 6d77ee2fc7b744718b5d9fd8934b4bf5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745850893446
+status: 3
+tags: []
+user_id: vscode

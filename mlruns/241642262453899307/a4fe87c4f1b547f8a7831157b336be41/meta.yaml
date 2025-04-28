@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/41425/mlruns/241642262453899307/a4fe87c4f1b547f8a7831157b336be41/artifacts
+end_time: 1745850981946
+entry_point_name: ''
+experiment_id: '241642262453899307'
+lifecycle_stage: active
+run_id: a4fe87c4f1b547f8a7831157b336be41
+run_name: resilient-deer-344
+run_uuid: a4fe87c4f1b547f8a7831157b336be41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745850973079
+status: 3
+tags: []
+user_id: vscode

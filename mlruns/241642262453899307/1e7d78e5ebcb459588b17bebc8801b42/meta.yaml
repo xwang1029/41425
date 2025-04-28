@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/41425/mlruns/241642262453899307/1e7d78e5ebcb459588b17bebc8801b42/artifacts
+end_time: 1745430659266
+entry_point_name: ''
+experiment_id: '241642262453899307'
+lifecycle_stage: active
+run_id: 1e7d78e5ebcb459588b17bebc8801b42
+run_name: skittish-dove-261
+run_uuid: 1e7d78e5ebcb459588b17bebc8801b42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745430654543
+status: 3
+tags: []
+user_id: vscode

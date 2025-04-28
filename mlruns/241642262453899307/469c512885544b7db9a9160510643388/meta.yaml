@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/41425/mlruns/241642262453899307/469c512885544b7db9a9160510643388/artifacts
+end_time: 1745850962566
+entry_point_name: ''
+experiment_id: '241642262453899307'
+lifecycle_stage: active
+run_id: 469c512885544b7db9a9160510643388
+run_name: likeable-skunk-408
+run_uuid: 469c512885544b7db9a9160510643388
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745850953872
+status: 3
+tags: []
+user_id: vscode

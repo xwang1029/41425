@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/41425/mlruns/241642262453899307/2a080204d78b4b78bcf4fe6952043845/artifacts
+end_time: 1745850953860
+entry_point_name: ''
+experiment_id: '241642262453899307'
+lifecycle_stage: active
+run_id: 2a080204d78b4b78bcf4fe6952043845
+run_name: redolent-flea-391
+run_uuid: 2a080204d78b4b78bcf4fe6952043845
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745850944557
+status: 3
+tags: []
+user_id: vscode

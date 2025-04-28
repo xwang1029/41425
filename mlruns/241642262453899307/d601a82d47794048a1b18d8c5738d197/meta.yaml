@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/41425/mlruns/241642262453899307/d601a82d47794048a1b18d8c5738d197/artifacts
+end_time: 1745850939562
+entry_point_name: ''
+experiment_id: '241642262453899307'
+lifecycle_stage: active
+run_id: d601a82d47794048a1b18d8c5738d197
+run_name: adventurous-ant-425
+run_uuid: d601a82d47794048a1b18d8c5738d197
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745850927196
+status: 3
+tags: []
+user_id: vscode

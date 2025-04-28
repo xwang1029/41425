@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/41425/mlruns/241642262453899307/ece6ce37d62c41448b69f2d8a8fa72f7/artifacts
+end_time: 1745850989173
+entry_point_name: ''
+experiment_id: '241642262453899307'
+lifecycle_stage: active
+run_id: ece6ce37d62c41448b69f2d8a8fa72f7
+run_name: gregarious-tern-546
+run_uuid: ece6ce37d62c41448b69f2d8a8fa72f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745850981955
+status: 3
+tags: []
+user_id: vscode

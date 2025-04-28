@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/41425/mlruns/241642262453899307/c34d2784d4d344ee95f07386326c7984/artifacts
+end_time: 1745850948437
+entry_point_name: ''
+experiment_id: '241642262453899307'
+lifecycle_stage: active
+run_id: c34d2784d4d344ee95f07386326c7984
+run_name: colorful-carp-611
+run_uuid: c34d2784d4d344ee95f07386326c7984
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745850939574
+status: 3
+tags: []
+user_id: vscode

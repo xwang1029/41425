@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/41425/mlruns/241642262453899307/f3ff46e10fcd4ef7be2908097c89f216/artifacts
+end_time: 1745430649720
+entry_point_name: ''
+experiment_id: '241642262453899307'
+lifecycle_stage: active
+run_id: f3ff46e10fcd4ef7be2908097c89f216
+run_name: selective-mole-889
+run_uuid: f3ff46e10fcd4ef7be2908097c89f216
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745430639565
+status: 3
+tags: []
+user_id: vscode

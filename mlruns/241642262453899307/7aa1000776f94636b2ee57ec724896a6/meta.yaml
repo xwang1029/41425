@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/41425/mlruns/241642262453899307/7aa1000776f94636b2ee57ec724896a6/artifacts
+end_time: 1745850930542
+entry_point_name: ''
+experiment_id: '241642262453899307'
+lifecycle_stage: active
+run_id: 7aa1000776f94636b2ee57ec724896a6
+run_name: trusting-shrike-582
+run_uuid: 7aa1000776f94636b2ee57ec724896a6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745850910747
+status: 3
+tags: []
+user_id: vscode

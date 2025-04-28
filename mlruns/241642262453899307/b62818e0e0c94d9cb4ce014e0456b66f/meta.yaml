@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/41425/mlruns/241642262453899307/b62818e0e0c94d9cb4ce014e0456b66f/artifacts
+end_time: 1745850890137
+entry_point_name: ''
+experiment_id: '241642262453899307'
+lifecycle_stage: active
+run_id: b62818e0e0c94d9cb4ce014e0456b66f
+run_name: industrious-frog-585
+run_uuid: b62818e0e0c94d9cb4ce014e0456b66f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745850880941
+status: 3
+tags: []
+user_id: vscode

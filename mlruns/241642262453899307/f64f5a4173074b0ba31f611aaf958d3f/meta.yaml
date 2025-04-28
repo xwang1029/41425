@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/41425/mlruns/241642262453899307/f64f5a4173074b0ba31f611aaf958d3f/artifacts
+end_time: 1745851429574
+entry_point_name: ''
+experiment_id: '241642262453899307'
+lifecycle_stage: active
+run_id: f64f5a4173074b0ba31f611aaf958d3f
+run_name: whimsical-fish-611
+run_uuid: f64f5a4173074b0ba31f611aaf958d3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745851426723
+status: 3
+tags: []
+user_id: vscode

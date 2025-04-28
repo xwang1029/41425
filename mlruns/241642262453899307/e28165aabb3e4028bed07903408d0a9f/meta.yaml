@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/41425/mlruns/241642262453899307/e28165aabb3e4028bed07903408d0a9f/artifacts
+end_time: 1745850911494
+entry_point_name: ''
+experiment_id: '241642262453899307'
+lifecycle_stage: active
+run_id: e28165aabb3e4028bed07903408d0a9f
+run_name: tasteful-finch-273
+run_uuid: e28165aabb3e4028bed07903408d0a9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745850891816
+status: 3
+tags: []
+user_id: vscode

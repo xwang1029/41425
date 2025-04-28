@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/41425/mlruns/241642262453899307/16aed8f4ca714f229a10fc506d9054a0/artifacts
+end_time: 1745850925000
+entry_point_name: ''
+experiment_id: '241642262453899307'
+lifecycle_stage: active
+run_id: 16aed8f4ca714f229a10fc506d9054a0
+run_name: puzzled-stag-740
+run_uuid: 16aed8f4ca714f229a10fc506d9054a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745850907110
+status: 3
+tags: []
+user_id: vscode

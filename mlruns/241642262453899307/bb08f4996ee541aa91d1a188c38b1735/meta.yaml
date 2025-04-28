@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/41425/mlruns/241642262453899307/bb08f4996ee541aa91d1a188c38b1735/artifacts
+end_time: 1745850974767
+entry_point_name: ''
+experiment_id: '241642262453899307'
+lifecycle_stage: active
+run_id: bb08f4996ee541aa91d1a188c38b1735
+run_name: illustrious-hawk-1
+run_uuid: bb08f4996ee541aa91d1a188c38b1735
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745850965969
+status: 3
+tags: []
+user_id: vscode

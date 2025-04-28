@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/41425/mlruns/241642262453899307/24d70a6abdb542c9b18715234d19eb92/artifacts
+end_time: 1745850989465
+entry_point_name: ''
+experiment_id: '241642262453899307'
+lifecycle_stage: active
+run_id: 24d70a6abdb542c9b18715234d19eb92
+run_name: languid-bird-14
+run_uuid: 24d70a6abdb542c9b18715234d19eb92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745850982638
+status: 3
+tags: []
+user_id: vscode

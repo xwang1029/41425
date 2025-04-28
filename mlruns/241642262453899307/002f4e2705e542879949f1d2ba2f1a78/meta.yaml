@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/41425/mlruns/241642262453899307/002f4e2705e542879949f1d2ba2f1a78/artifacts
+end_time: 1745850965961
+entry_point_name: ''
+experiment_id: '241642262453899307'
+lifecycle_stage: active
+run_id: 002f4e2705e542879949f1d2ba2f1a78
+run_name: bright-cod-404
+run_uuid: 002f4e2705e542879949f1d2ba2f1a78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745850957023
+status: 3
+tags: []
+user_id: vscode

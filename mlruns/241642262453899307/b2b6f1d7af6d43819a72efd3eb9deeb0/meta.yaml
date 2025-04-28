@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/41425/mlruns/241642262453899307/b2b6f1d7af6d43819a72efd3eb9deeb0/artifacts
+end_time: 1745850911400
+entry_point_name: ''
+experiment_id: '241642262453899307'
+lifecycle_stage: active
+run_id: b2b6f1d7af6d43819a72efd3eb9deeb0
+run_name: legendary-tern-994
+run_uuid: b2b6f1d7af6d43819a72efd3eb9deeb0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745850892138
+status: 3
+tags: []
+user_id: vscode

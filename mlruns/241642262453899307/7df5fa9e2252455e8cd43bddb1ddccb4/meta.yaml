@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/41425/mlruns/241642262453899307/7df5fa9e2252455e8cd43bddb1ddccb4/artifacts
+end_time: 1745850889692
+entry_point_name: ''
+experiment_id: '241642262453899307'
+lifecycle_stage: active
+run_id: 7df5fa9e2252455e8cd43bddb1ddccb4
+run_name: amazing-frog-418
+run_uuid: 7df5fa9e2252455e8cd43bddb1ddccb4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745850880241
+status: 3
+tags: []
+user_id: vscode

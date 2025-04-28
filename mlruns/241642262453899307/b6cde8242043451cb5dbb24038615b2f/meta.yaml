@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/41425/mlruns/241642262453899307/b6cde8242043451cb5dbb24038615b2f/artifacts
+end_time: 1745850988538
+entry_point_name: ''
+experiment_id: '241642262453899307'
+lifecycle_stage: active
+run_id: b6cde8242043451cb5dbb24038615b2f
+run_name: smiling-owl-226
+run_uuid: b6cde8242043451cb5dbb24038615b2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745850980682
+status: 3
+tags: []
+user_id: vscode

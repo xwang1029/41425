@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/41425/mlruns/241642262453899307/a5bc11e29df540fca446b8be6050e8db/artifacts
+end_time: 1745586463168
+entry_point_name: ''
+experiment_id: '241642262453899307'
+lifecycle_stage: active
+run_id: a5bc11e29df540fca446b8be6050e8db
+run_name: merciful-whale-878
+run_uuid: a5bc11e29df540fca446b8be6050e8db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745586458667
+status: 3
+tags: []
+user_id: vscode

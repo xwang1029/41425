@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/41425/mlruns/241642262453899307/36bc01b12ade4109be18636e330c5226/artifacts
+end_time: 1745850883087
+entry_point_name: ''
+experiment_id: '241642262453899307'
+lifecycle_stage: active
+run_id: 36bc01b12ade4109be18636e330c5226
+run_name: trusting-colt-644
+run_uuid: 36bc01b12ade4109be18636e330c5226
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745850877682
+status: 3
+tags: []
+user_id: vscode

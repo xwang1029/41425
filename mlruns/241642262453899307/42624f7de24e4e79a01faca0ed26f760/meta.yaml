@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/41425/mlruns/241642262453899307/42624f7de24e4e79a01faca0ed26f760/artifacts
+end_time: 1745850931332
+entry_point_name: ''
+experiment_id: '241642262453899307'
+lifecycle_stage: active
+run_id: 42624f7de24e4e79a01faca0ed26f760
+run_name: nebulous-zebra-146
+run_uuid: 42624f7de24e4e79a01faca0ed26f760
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745850912383
+status: 3
+tags: []
+user_id: vscode

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/41425/mlruns/241642262453899307/dbf6e0a299bb4e60bab5eb6d31ee309d/artifacts
+end_time: 1745851423885
+entry_point_name: ''
+experiment_id: '241642262453899307'
+lifecycle_stage: active
+run_id: dbf6e0a299bb4e60bab5eb6d31ee309d
+run_name: calm-doe-8
+run_uuid: dbf6e0a299bb4e60bab5eb6d31ee309d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745851421096
+status: 3
+tags: []
+user_id: vscode

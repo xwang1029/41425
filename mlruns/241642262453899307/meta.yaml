@@ -1,0 +1,6 @@
+artifact_location: file:///workspaces/41425/mlruns/241642262453899307
+creation_time: 1745424067273
+experiment_id: '241642262453899307'
+last_update_time: 1745424067273
+lifecycle_stage: active
+name: gold_price_forecast

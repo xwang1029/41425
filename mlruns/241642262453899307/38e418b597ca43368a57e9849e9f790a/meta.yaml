@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/41425/mlruns/241642262453899307/38e418b597ca43368a57e9849e9f790a/artifacts
+end_time: 1745850909163
+entry_point_name: ''
+experiment_id: '241642262453899307'
+lifecycle_stage: active
+run_id: 38e418b597ca43368a57e9849e9f790a
+run_name: delightful-vole-330
+run_uuid: 38e418b597ca43368a57e9849e9f790a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745850890924
+status: 3
+tags: []
+user_id: vscode

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/41425/mlruns/241642262453899307/ea05db7411d84778860feff6ea6fa9b0/artifacts
+end_time: 1745850964409
+entry_point_name: ''
+experiment_id: '241642262453899307'
+lifecycle_stage: active
+run_id: ea05db7411d84778860feff6ea6fa9b0
+run_name: silent-jay-59
+run_uuid: ea05db7411d84778860feff6ea6fa9b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745850954899
+status: 3
+tags: []
+user_id: vscode

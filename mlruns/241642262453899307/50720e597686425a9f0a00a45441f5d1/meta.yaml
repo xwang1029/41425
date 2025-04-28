@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/41425/mlruns/241642262453899307/50720e597686425a9f0a00a45441f5d1/artifacts
+end_time: 1745850980674
+entry_point_name: ''
+experiment_id: '241642262453899307'
+lifecycle_stage: active
+run_id: 50720e597686425a9f0a00a45441f5d1
+run_name: carefree-kite-63
+run_uuid: 50720e597686425a9f0a00a45441f5d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745850971183
+status: 3
+tags: []
+user_id: vscode

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/41425/mlruns/241642262453899307/9a545f4ba6da4c50a8161d8dcb3a6775/artifacts
+end_time: 1745586465986
+entry_point_name: ''
+experiment_id: '241642262453899307'
+lifecycle_stage: active
+run_id: 9a545f4ba6da4c50a8161d8dcb3a6775
+run_name: resilient-shrike-757
+run_uuid: 9a545f4ba6da4c50a8161d8dcb3a6775
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745586463172
+status: 3
+tags: []
+user_id: vscode

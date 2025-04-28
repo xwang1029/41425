@@ -1,0 +1,114 @@
+:root {
+  /* 1️⃣ Define your palette */
+  --light-gold: #FDDC5C;   /* Light Gold */ 
+  --accent-gold: #d4af37;  /* Metallic Gold */ 
+  --text-dark: #333;
+  --card-bg: rgba(255,255,255,0.9);
+}
+
+/* 2️⃣ Global Background */
+body, [data-testid="stAppViewContainer"] {
+  background: linear-gradient(to right, #eac75b91, #deecaa93); !important;   /* Light Gold backdrop :contentReference[oaicite:0]{index=0} */
+  background-size: cover;
+}
+
+/* 3️⃣ Card Styling (keep content readable) */
+[data-testid="stAppViewContainer"] > .main {
+  background: var(--card-bg) !important;
+  border-radius: 16px;
+  padding: 2rem;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.1);
+}
+
+/* 4️⃣ Introduction Page Wrapper */
+/* Wrap your intro page content in st.markdown with <div class="intro-page">…</div> */
+.intro-page {
+  text-align: center;
+  color: var(--text-dark);
+  padding: 2rem 1rem;
+}
+.intro-page h1 {
+  font-size: 2.5rem;
+  margin-bottom: 0.5rem;
+  position: relative;
+}
+
+/* 5️⃣ Decorative Separator under the Title */
+/* Using a pseudo-element for a centered, gold-gradient bar :contentReference[oaicite:1]{index=1} */
+.intro-page h1::after {
+  content: "";
+  display: block;
+  width: 120px;
+  height: 6px;
+  margin: 0.75rem auto 1.5rem;
+  border-radius: 3px;
+  background: linear-gradient(
+    to right,
+    var(--accent-gold),
+    var(--light-gold),
+    var(--accent-gold)
+  );  /* Gradient for depth :contentReference[oaicite:2]{index=2} */
+}
+
+/* 6️⃣ Intro Paragraph Styling */
+.intro-page p {
+  font-size: 1.1rem;
+  line-height: 1.6;
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+/* 7️⃣ Fancy HR Divider (alternative approach) */
+/* Use <hr class="decorative"> between any sections :contentReference[oaicite:3]{index=3} */
+hr.decorative {
+  border: none;
+  height: 4px;
+  margin: 2rem auto;
+  width: 80%;
+  background: linear-gradient(
+    to right,
+    rgba(212,175,55,0),
+    var(--accent-gold),
+    rgba(212,175,55,0)
+  );
+  border-radius: 2px;
+}
+
+/* 8️⃣ Button Accent (optional) */
+.stButton>button {
+  background: var(--accent-gold) !important;
+  color: #fff !important;
+  border-radius: 8px;
+  transition: transform 0.2s ease;
+}
+.stButton>button:hover {
+  transform: scale(1.05);
+}
+/* Make all Streamlit tables transparent */
+table {
+  background-color: transparent !important;
+  border-collapse: collapse;
+}
+
+/* Table container */
+.stTable {
+  background-color: transparent !important;
+}
+
+/* Table cells */
+th, td {
+  background-color: transparent !important;
+  color: #333;              /* ensure text is readable */
+  padding: 0.5rem 1rem;      /* tighten spacing */
+}
+
+/* Optional: add a subtle bottom border for rows */
+tr {
+  border-bottom: 1px solid rgba(0,0,0,0.1);
+}
+
+/* Header styling */
+th {
+  font-weight: 600;
+  border-bottom: 2px solid var(--accent-gold);
+}
